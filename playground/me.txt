@@ -1,5 +1,0 @@
-{{#user}}
-Name: Harry Paul
-Skills: HTML, CSS, JS, Nodejs, Expressjs, Reactjs, MongoDB, SQL, MySQL, Java, C++, C, Python
-Email: harrypaul1812@gmail.com
-{{/user}}
